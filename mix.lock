@@ -1,0 +1,3 @@
+%{
+  "singleton": {:hex, :singleton, "1.3.0", "e3f7210cbc47a01128181d61062b4e5c9bf1809c9f276622db370dedd2e25ca8", [:mix], [], "hexpm", "7fc25563a2f7e3622c0687743a58182d356601fd040925d3cce92a351817028c"},
+}
